@@ -1,0 +1,129 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "WANKA",
+      "lastName": "FONGWA",
+      "email": "wwwww@jbbb",
+      "dob": "2023-09-03T23:00:00.000Z",
+      "gender": "female",
+      "education": "Graduate",
+      "company": "nasa",
+      "experience": "4",
+      "package": "7",
+      "id": 2
+    },
+    {
+      "firstName": "WANKA",
+      "lastName": "FONGWA",
+      "email": "wwwww@jbbb",
+      "dob": "2023-09-03T23:00:00.000Z",
+      "gender": "female",
+      "education": "Graduate",
+      "company": "nasa",
+      "experience": "4",
+      "package": "7",
+      "id": 3
+    },
+    {
+      "firstName": "WANKA",
+      "lastName": "FONGWA",
+      "email": "wwwww@jbbb",
+      "dob": "2023-09-03T23:00:00.000Z",
+      "gender": "female",
+      "education": "Graduate",
+      "company": "nasa",
+      "experience": "4",
+      "package": "7",
+      "id": 4
+    },
+    {
+      "firstName": "Brenda",
+      "lastName": "Nsang",
+      "email": "brenda@gmail.com",
+      "dob": "2023-09-12T23:00:00.000Z",
+      "gender": "female",
+      "education": "Intermediate",
+      "company": "amazon",
+      "experience": "2",
+      "package": "21",
+      "id": 9
+    },
+    {
+      "firstName": "asdfg",
+      "lastName": "",
+      "email": "asdfg@.g",
+      "dob": "",
+      "gender": "male",
+      "education": "Matricule",
+      "company": "",
+      "experience": "",
+      "package": "",
+      "id": 10
+    },
+    {
+      "firstName": "WANKAddddddddddd",
+      "lastName": "FONGWA",
+      "email": "wwwww@jbbb",
+      "dob": "2023-09-03T23:00:00.000Z",
+      "gender": "female",
+      "education": "Graduate",
+      "company": "nasa",
+      "experience": "4",
+      "package": "7",
+      "id": 11
+    },
+    {
+      "firstName": "WANKA",
+      "lastName": "FONGWA domi",
+      "email": "wwwww@jbbb",
+      "dob": "2023-09-03T23:00:00.000Z",
+      "gender": "female",
+      "education": "Graduate",
+      "company": "nasa",
+      "experience": "4",
+      "package": "7",
+      "id": 12
+    },
+    {
+      "firstName": "WANKA doms",
+      "lastName": "FONGWA",
+      "email": "wwwww@jbbb",
+      "dob": "2023-09-03T23:00:00.000Z",
+      "gender": "female",
+      "education": "Graduate",
+      "company": "nasa",
+      "experience": "4",
+      "package": "7",
+      "id": 13
+    },
+    {
+      "firstName": "asdfg",
+      "lastName": "",
+      "email": "brenda@gmail.com",
+      "dob": "",
+      "gender": "female",
+      "education": "Matricule",
+      "company": "",
+      "experience": "",
+      "package": "",
+      "id": 14
+    }
+  ]
+}
