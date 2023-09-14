@@ -1,3 +1,7 @@
+This application is a basic angular application and as of now it has very few components and services. 
+The main purpose of this application is just to collect employee's detials and save in a table that can easily be access, can as well be sorted.
+An employee can be added, updated and deleted.
+this apps can help keep basic information for workers in a company as soon as they become employees of that company. And their information can be gotten just within seconds and not neccessarly calling them or requesting for the information again
 # CrudApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
